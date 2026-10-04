@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://technocore.one/sitemap.xml
