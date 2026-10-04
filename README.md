@@ -13,12 +13,6 @@ CNAME         custom domain for GitHub Pages
 
 Local preview: `python3 -m http.server 8787` → http://127.0.0.1:8787
 
-## Before publishing
-
-Replace the highlighted placeholders (`grep -n 'class="todo"' index.html`):
-- Delaware file number
-- EIN
-
 ## Deploy (GitHub Pages)
 
 1. Verify the domain: github.com/settings/pages → Add a domain → `technocore.one`.

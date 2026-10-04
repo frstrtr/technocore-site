@@ -258,6 +258,3 @@ section[id] { scroll-margin-top: 72px; }
 .panel-bar i { width: 9px; height: 9px; border-radius: 50%; background: var(--line-dark); }
 .panel-bar span { margin-left: 10px; }
 .panel .flow { padding: 22px 20px 18px; }
-
-/* Placeholder that must be replaced before publishing — deliberately loud. */
-.todo { background: #FFE58F; color: #7A4F00; font-family: var(--mono); font-size: .9em; padding: 0 4px; border-radius: 3px; }
